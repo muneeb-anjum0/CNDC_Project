@@ -10,7 +10,7 @@ This project simulates a **bank’s internal network** built in **Cisco Packet T
 - **RIP Routing:** Dynamic route exchange between all routers  
 - **Backup Serial Link:** Ensures branch connectivity if the main link fails  
 - **Access Control List (ACL):** Restricts Branch 2 from accessing HQ web server (port 80)  
-- **End-to-End Communication:** HQ ↔ Branch1 ↔ Branch2 fully operational  
+- **End-to-End Communication:** HQ <-> Branch1 <-> Branch2 fully operational  
 
 ---
 
@@ -56,4 +56,4 @@ This project simulates a **bank’s internal network** built in **Cisco Packet T
 
 ---
 
-**Project:** CNDC Lab — Bank Network with Head Office and Two Branches  
+**Project:** CNDC Lab - Bank Network with Head Office and Two Branches  
